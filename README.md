@@ -1,2 +1,2 @@
 # ServidorJavaSockets
-Servidor que retorna el resutlado de una operación indicada
+Servidor que retorna el resutado de una operación sencilla indicada por el cliente.
